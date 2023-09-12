@@ -1,8 +1,8 @@
 ### REPOSITORIO EN CONTRUCCION 👋
 
 	
-json
-{
+
+* {
   "Juan": "Diaz",
   "Peso": "72Kg"
 }
