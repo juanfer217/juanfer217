@@ -1,5 +1,12 @@
 ### REPOSITORIO EN CONTRUCCION 👋
-## Juan
+
+	
+```json
+{
+  "Juan": "Diaz",
+  "Peso": "72Kg"
+}
+```
 <!--
 **juanfer217/juanfer217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
