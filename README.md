@@ -1,12 +1,5 @@
 ### REPOSITORIO EN CONTRUCCION 👋
 
-	
-
-* {
-  "Juan": "Diaz",
-  "Peso": "72Kg"
-}
-
 <!--
 **juanfer217/juanfer217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Alt](/ruta/https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Fdetail%2F32-324680_like-emoji-smiley-face-thumbs-up.png&tbnid=hs-NjMui1ygWyM&vet=12ahUKEwjz09Kci6aBAxXWgYQIHZS3ApAQMygCegQIARBF..i&imgrefurl=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2q8q8i1u2w7q8w7_like-emoji-smiley-face-thumbs-up%2F&docid=tSNeUoIO24-z8M&w=820&h=845&q=emoji%20like&ved=2ahUKEwjz09Kci6aBAxXWgYQIHZS3ApAQMygCegQIARBF)
