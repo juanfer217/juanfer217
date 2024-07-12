@@ -1,46 +1,76 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![JuanDev Banner](https://imgur.com/a/5ZjtZfp.jpg)
+<div align="center">
+<h2>Hola, Me Llamo Juan</h2>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, Me Llamo Juan</h2>
-
-<!-- ## 👋 &nbsp;Hey there! -->
-
-### 👨🏻‍💻 &nbsp;About Me
+<a href="https://linkedin.com/in/juanfer" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "juanfer2177@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+</div>
+<br>
+ 
+<h2>👨🏻‍💻 Sobre Mi</h2>
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;Actualmente estoy estudiando Ingeneria de Sistemas en la Universidad Mariana.\
 🌱 &nbsp;Estoy en camino de aprender más sobre Desarrollo Web..\
 ✉️ &nbsp;¡Puedes escribirme un correo electrónico a juanfer2177@gmail.com! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+<br><br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+<h2> 🛠 Tecnologias Conocidas</h2>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,php&perline=3)](https://skillicons.dev)
 
-### ⚙️ &nbsp;GitHub Analytics
+<br>
 
+<h2>⚙️GitHub :octocat:</h2>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h2>Proyectos</h2>
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://freelancer-juandev.netlify.app/" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="Proyecto" /></a>
+      </p>
+    <p align="center">FreeLancer</p>
+    <p align="center">
+        <a href="https://freelancer-juandev.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
+      <a href="https://github.com/juanfer217/Freelancer" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev"/></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+     <a href="https://frontendstore-juandev.netlify.app/" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="Proyecto" /></a>
+      </p>
+  <p align="center" >FrontEndStore</p>
+    <p align="center">
+        <a href="https://frontendstore-juandev.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
+      <a href="https://github.com/juanfer217/FrontEndStore" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev" /></a>
+    </p>       
+</td>
+  
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="#" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="Proyecto" /></a>
+      </p>
+    <p align="center" >PROXIMAMENTE</p>
+    <p align="center">
+        <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Sitio-FF0000?style=for-the-badge&logoColor=white" alt="@juandev" /></a>
+      <a href="https://github.com/juanfer217/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@juandev" /></a>
+    </p>       
+</td>
 
-<p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
------
+</tr>
+</table>
