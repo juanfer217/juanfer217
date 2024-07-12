@@ -51,7 +51,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://frontendstore-juandev.netlify.app/" title="Go to Source">
-        <img align="center" width=100% src="https://i.postimg.cc/kGqHtwdh/Fron-End-Store.png"   alt="Proyecto" /></a>
+        <img align="center" width=100% src="https://i.postimg.cc/R0tps2SD/Fron-End-Store.png"   alt="Proyecto" /></a>
       </p>
   <p align="center" >FrontEndStore</p>
     <p align="center">
