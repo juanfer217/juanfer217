@@ -1,4 +1,4 @@
-![JuanDev Banner](https://imgur.com/a/5ZjtZfp.jpg)
+[![logo-juandev.png](https://i.postimg.cc/7Pndyv3v/logo-juandev.png)](https://postimg.cc/w330hG4F)
 <div align="center">
 <h2>Hola, Me Llamo Juan</h2>
 
@@ -40,7 +40,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://freelancer-juandev.netlify.app/" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="Proyecto" /></a>
+        <img align="center" width=100% src="https://i.postimg.cc/7LCrxBx3/Freelancer.png"   alt="Proyecto" /></a>
       </p>
     <p align="center">FreeLancer</p>
     <p align="center">
@@ -51,7 +51,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://frontendstore-juandev.netlify.app/" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="Proyecto" /></a>
+        <img align="center" width=100% src="https://i.postimg.cc/kGqHtwdh/Fron-End-Store.png"   alt="Proyecto" /></a>
       </p>
   <p align="center" >FrontEndStore</p>
     <p align="center">
