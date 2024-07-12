@@ -28,8 +28,8 @@
 <h2>⚙️GitHub :octocat:</h2>
 <p align="center">
 <a href="https://github.com/juanfer217">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanfer217&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanfer217&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanfer217&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juanfer217&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
@@ -63,7 +63,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="#" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="Proyecto" /></a>
+        <img align="center" width=100% src="#"   alt="Proyecto" /></a>
       </p>
     <p align="center" >PROXIMAMENTE</p>
     <p align="center">
